@@ -39,9 +39,15 @@ DSA journey
 ## Stack
 |  |
 | ------- |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/satvik-77/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3834-merge-adjacent-equal-elements](https://github.com/satvik-77/DSA/tree/master/3834-merge-adjacent-equal-elements) |
 ## Simulation
 |  |
 | ------- |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/satvik-77/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3834-merge-adjacent-equal-elements](https://github.com/satvik-77/DSA/tree/master/3834-merge-adjacent-equal-elements) |
+## String
+|  |
+| ------- |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/satvik-77/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
