@@ -32,4 +32,16 @@ DSA journey
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/satvik-77/DSA/tree/master/0148-sort-list) |
+## Array
+|  |
+| ------- |
+| [3834-merge-adjacent-equal-elements](https://github.com/satvik-77/DSA/tree/master/3834-merge-adjacent-equal-elements) |
+## Stack
+|  |
+| ------- |
+| [3834-merge-adjacent-equal-elements](https://github.com/satvik-77/DSA/tree/master/3834-merge-adjacent-equal-elements) |
+## Simulation
+|  |
+| ------- |
+| [3834-merge-adjacent-equal-elements](https://github.com/satvik-77/DSA/tree/master/3834-merge-adjacent-equal-elements) |
 <!---LeetCode Topics End-->
