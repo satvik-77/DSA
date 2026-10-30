@@ -35,6 +35,7 @@ DSA journey
 ## Array
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satvik-77/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3834-merge-adjacent-equal-elements](https://github.com/satvik-77/DSA/tree/master/3834-merge-adjacent-equal-elements) |
 ## Stack
 |  |
@@ -50,4 +51,8 @@ DSA journey
 |  |
 | ------- |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/satvik-77/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
+## Hash Table
+|  |
+| ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satvik-77/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 <!---LeetCode Topics End-->
