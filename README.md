@@ -36,6 +36,7 @@ DSA journey
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satvik-77/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/satvik-77/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/satvik-77/DSA/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/satvik-77/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3834-merge-adjacent-equal-elements](https://github.com/satvik-77/DSA/tree/master/3834-merge-adjacent-equal-elements) |
@@ -69,4 +70,8 @@ DSA journey
 |  |
 | ------- |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/satvik-77/DSA/tree/master/2341-maximum-number-of-pairs-in-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/satvik-77/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
