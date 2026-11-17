@@ -36,6 +36,7 @@ DSA journey
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satvik-77/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/satvik-77/DSA/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/satvik-77/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3834-merge-adjacent-equal-elements](https://github.com/satvik-77/DSA/tree/master/3834-merge-adjacent-equal-elements) |
 ## Stack
@@ -59,8 +60,13 @@ DSA journey
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satvik-77/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/satvik-77/DSA/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Math
 |  |
 | ------- |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/satvik-77/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+## Counting
+|  |
+| ------- |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/satvik-77/DSA/tree/master/2341-maximum-number-of-pairs-in-array) |
 <!---LeetCode Topics End-->
