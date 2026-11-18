@@ -36,6 +36,7 @@ DSA journey
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satvik-77/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0682-baseball-game](https://github.com/satvik-77/DSA/tree/master/0682-baseball-game) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/satvik-77/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/satvik-77/DSA/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/satvik-77/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -43,12 +44,14 @@ DSA journey
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/satvik-77/DSA/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/satvik-77/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/satvik-77/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3834-merge-adjacent-equal-elements](https://github.com/satvik-77/DSA/tree/master/3834-merge-adjacent-equal-elements) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/satvik-77/DSA/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/satvik-77/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/satvik-77/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3834-merge-adjacent-equal-elements](https://github.com/satvik-77/DSA/tree/master/3834-merge-adjacent-equal-elements) |
