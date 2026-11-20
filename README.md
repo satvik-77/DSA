@@ -44,6 +44,7 @@ DSA journey
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/satvik-77/DSA/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/satvik-77/DSA/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/satvik-77/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/satvik-77/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -58,6 +59,7 @@ DSA journey
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/satvik-77/DSA/tree/master/0020-valid-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/satvik-77/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/satvik-77/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Hash Table
@@ -77,4 +79,8 @@ DSA journey
 |  |
 | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/satvik-77/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/satvik-77/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
