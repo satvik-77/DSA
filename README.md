@@ -29,6 +29,7 @@ DSA journey
 | ------- |
 | [0148-sort-list](https://github.com/satvik-77/DSA/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/satvik-77/DSA/tree/master/0164-maximum-gap) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/satvik-77/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -38,6 +39,7 @@ DSA journey
 | ------- |
 | [0164-maximum-gap](https://github.com/satvik-77/DSA/tree/master/0164-maximum-gap) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satvik-77/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/satvik-77/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0682-baseball-game](https://github.com/satvik-77/DSA/tree/master/0682-baseball-game) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/satvik-77/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/satvik-77/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -75,6 +77,7 @@ DSA journey
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/satvik-77/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/satvik-77/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Counting
 |  |
