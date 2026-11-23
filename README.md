@@ -28,6 +28,7 @@ DSA journey
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/satvik-77/DSA/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/satvik-77/DSA/tree/master/0164-maximum-gap) |
 ## Merge Sort
 |  |
 | ------- |
@@ -35,6 +36,7 @@ DSA journey
 ## Array
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/satvik-77/DSA/tree/master/0164-maximum-gap) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satvik-77/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/satvik-77/DSA/tree/master/0682-baseball-game) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/satvik-77/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -99,4 +101,16 @@ DSA journey
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/satvik-77/DSA/tree/master/0933-number-of-recent-calls) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/satvik-77/DSA/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/satvik-77/DSA/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/satvik-77/DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
