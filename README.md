@@ -42,6 +42,7 @@ DSA journey
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/satvik-77/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0682-baseball-game](https://github.com/satvik-77/DSA/tree/master/0682-baseball-game) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/satvik-77/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1470-shuffle-the-array](https://github.com/satvik-77/DSA/tree/master/1470-shuffle-the-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/satvik-77/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/satvik-77/DSA/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/satvik-77/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
